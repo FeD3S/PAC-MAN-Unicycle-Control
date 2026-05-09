@@ -1,0 +1,10 @@
+%% STATE ERROR LINEAR CONTROLLER 
+KL_a = 100;
+KL_xi = 0.01;
+
+KL_params = [KL_a, KL_xi];
+
+
+%% STATE ERROR NONLINEAR CONTROLLER 
+KNL_b = 1000; % b>0
+KNL_xi = 0.9999; %xi in (0,1)
