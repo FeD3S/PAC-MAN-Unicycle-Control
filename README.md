@@ -6,6 +6,7 @@ This repository contains the MATLAB and Simulink implementation for the "PAC-MAN
 * Federico Saporiti
 * Matteo Bino
 * Leonardo Luigi Pepe
+  
 Control Systems Engineering
 
 ## Project Overview
